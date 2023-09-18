@@ -1,0 +1,90 @@
+.updates {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.updates-left {
+  width: 650px;
+  height: 886px;
+  top: 357px;
+  margin-top: 20px;
+  border-radius: 15px;
+  background-color: #f0f0f0;
+}
+.updates-right {
+  width: 351px;
+  height: 726px;
+  top: 357px;
+  left: 854px;
+  border-radius: 15px;
+  background-color: #f0f0f0;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.updates-one {
+  width: 69px;
+  height: 13.09px;
+  top: 378.42px;
+  left: 284px;
+  font-family: Geomanist;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #666666;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.updates-two {
+  width: 158px;
+  height: 135px;
+  top: 388px;
+  left: 884px;
+  font-family: Geomanist;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #000000;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.box {
+  width: 504px;
+  height: 303px;
+  top: 4px;
+  border-radius: 12px;
+  background-color: #d9d9d9;
+  margin-left: 40px;
+  margin-top: 50px;
+}
+.updates-three {
+  width: 175px;
+  height: 29px;
+
+  font-family: Geomanist;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  margin-left: 40px;
+}
+
+.updates-para {
+  width: 504px;
+  height: 54px;
+  margin-left: 40px;
+  font-family: Geomanist;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #666666;
+}
